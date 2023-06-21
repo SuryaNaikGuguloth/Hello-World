@@ -1,0 +1,19 @@
+<html>
+        <head>
+        </head>
+        <body>
+                <center>
+                        <form action="form-validate.php" method="get">
+                                <label>username</label>
+                                <input type="text" name="user"><br><br>
+                                <label>password</label>
+                                <input type="password" name="password"><br><br>
+                                <label>DOB</label>
+                                <input type="date" name="date"><br><br>
+                                <label for="">Branch</label>
+                                <select name="" id="">
+                                        <option value="">CSM</option>
+                                        <option value="">ECE</option>
+                                        <select><br><br>
+        </body>
+</html>
